@@ -1,11 +1,19 @@
-﻿venv/
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
 __pycache__/
+*.py[cod]
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Environment & secrets
 .env
 .streamlit/secrets.toml
 
+# Large / excluded data files
 application_train.csv
 loan_predictions.csv
 loan_test.csv
-
-static/
