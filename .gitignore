@@ -1,0 +1,11 @@
+﻿venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.streamlit/secrets.toml
+
+application_train.csv
+loan_predictions.csv
+loan_test.csv
+
+static/

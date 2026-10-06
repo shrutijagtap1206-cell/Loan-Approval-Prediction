@@ -1,0 +1,5 @@
+dataset,found,group,rows,target_meaning,positive_rate
+loan_train.csv,True,approval,614,approved (1) / rejected (0),69%
+loan_approval_dataset.csv,True,approval,4269,approved (1) / rejected (0),62%
+application_train.csv,True,risk,60000,repayment trouble (1) / repaid (0),8%
+loan_test.csv,True,no answers,0,no target column: only for predicting,
