@@ -130,7 +130,7 @@ with st.sidebar:
 # -----------------------------------------------------------------------------
 st.markdown("""
 <div class="main-header">
-    <h1>🏦 Loan Application Approval Prediction</h1>
+    <h1>🏦 SMART Loan  Approval Prediction</h1>
     <p>Real-time borrower credit assessment, debt-to-income analysis, and approval probability scoring.</p>
 </div>
 """, unsafe_allow_html=True)
