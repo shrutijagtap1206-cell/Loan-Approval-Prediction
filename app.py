@@ -18,7 +18,7 @@ from engine import predict, get_model
 # PAGE CONFIGURATION
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Loan Approval Prediction System",
+    page_title=" SMART Loan Approval Prediction System",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="expanded"
