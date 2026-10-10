@@ -207,7 +207,7 @@ with st.sidebar:
 st.markdown(
     """
     <div class="main-header">
-        <h1>🏦 UrApproval — SMART Loan Approval </h1>
+        <h1>🏦 UrApproval-SMART Loan Approval </h1>
         <p>
             AI-powered loan application assessment using applicant,
             financial, asset, and credit information.
